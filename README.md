@@ -157,5 +157,9 @@ we use 1 1 1 as p d q values we got 96% accuracy on the test data we have given
 
 # Vizualising prediction 
 
+![Visualizing that one product sale over the month](Time series plot.png)
 
 
+![Visualizing prediction of the model in the time series plot](prediction plot.png)
+
+![Visualize the predictive data itself](prediction data .png)
