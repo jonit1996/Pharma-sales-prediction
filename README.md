@@ -162,4 +162,4 @@ we use 1 1 1 as p d q values we got 96% accuracy on the test data we have given
 
 ![Visualizing prediction of the model in the time series plot](prediction plot.png)
 
-![Visualize the predictive data itself](prediction data .png)
+![Visualize the predictive data itself](Pharma-sales-prediction/prediction data.png)
